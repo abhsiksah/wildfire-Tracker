@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wildfire-Tracker/static/css/main.c71b3dbd.chunk.css",
+    "main.js": "/wildfire-Tracker/static/js/main.eb493914.chunk.js",
+    "main.js.map": "/wildfire-Tracker/static/js/main.eb493914.chunk.js.map",
+    "runtime-main.js": "/wildfire-Tracker/static/js/runtime-main.b3b8ddf2.js",
+    "runtime-main.js.map": "/wildfire-Tracker/static/js/runtime-main.b3b8ddf2.js.map",
+    "static/js/2.9dafd632.chunk.js": "/wildfire-Tracker/static/js/2.9dafd632.chunk.js",
+    "static/js/2.9dafd632.chunk.js.map": "/wildfire-Tracker/static/js/2.9dafd632.chunk.js.map",
+    "index.html": "/wildfire-Tracker/index.html",
+    "static/css/main.c71b3dbd.chunk.css.map": "/wildfire-Tracker/static/css/main.c71b3dbd.chunk.css.map",
+    "static/js/2.9dafd632.chunk.js.LICENSE.txt": "/wildfire-Tracker/static/js/2.9dafd632.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3b8ddf2.js",
+    "static/js/2.9dafd632.chunk.js",
+    "static/css/main.c71b3dbd.chunk.css",
+    "static/js/main.eb493914.chunk.js"
+  ]
+}
